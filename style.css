@@ -7,3 +7,12 @@ h1{
 .c1{
     color: crimson;
 }
+.d{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.d img{
+    width: 100%;
+}
